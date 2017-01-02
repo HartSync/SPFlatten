@@ -68,11 +68,9 @@ Output:
 SPFlatten - AWS Lambda
 ======================
 
-A Lambda version of this project sits on the **spflatten_lambda** branch.
+A Lambda version of this project sits within the  **aws-lambda** folder.
 
 **Usage:**
-
-_Checkout_ spflatten_lambda
 
 _Open_ **main.py** & _Set_ **domain** variable to your preferred domain. **NOTE: ** The Domain must exist on Route53 of the AWS account you are running lambda.
 
